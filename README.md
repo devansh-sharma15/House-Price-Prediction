@@ -17,7 +17,7 @@ This is a data science project in which I have built a model for real estate pri
 To run this project on your local machine:
 1. Clone the run-locally branch OR download zip file
 ```
-git clone https://github.com/ritwik4690/House-Price-Prediction.git --branch run-locally --single-branch
+git clone https://github.com/devansh-sharma15/House-Price-Prediction.git --branch run-locally --single-branch
 ```
 2. Change to the server directory
 ```
